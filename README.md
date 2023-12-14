@@ -17,8 +17,8 @@ To run the simulation, use the following command:
 python main.py --num_clients 5 --total_rounds 40 --alpha 0.75
 ```
 
-## Client Explanation
-
+## Client Changes
+### The following lines describe the code we provide to adapt FedAvg to FedSoup
 fit method:
 
 1) Lines 65-90: obtaining parameters from server
