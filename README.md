@@ -19,7 +19,7 @@ python main.py --num_clients 5 --total_rounds 40 --alpha 0.75
 
 ## Client Changes
 ### The following lines specify the position of the code we provide to adapt FedAvg to FedSoup
-####client.py
+#### client.py
 fit method:
 
 1) Lines 65-90: obtaining parameters from server
