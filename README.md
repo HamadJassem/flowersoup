@@ -21,12 +21,12 @@ python main.py --num_clients 5 --total_rounds 40 --alpha 0.75
 
 fit method:
 
-Lines 65-90: obtaining parameters from server
-Line 92: Local training
-Lines 93-155 FedSoup Extension
+1) Lines 65-90: obtaining parameters from server
+2) Line 92: Local training
+3) Lines 93-155 FedSoup Extension
 
 get_parameters method:
-returns client parameters
+1) returns client parameters
 
 evaluate method:
 1) Sets parameters with global parameters
