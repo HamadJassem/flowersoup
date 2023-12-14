@@ -1,6 +1,6 @@
 # Federated Learning Simulation
 
-This project is a simulation of federated learning using Flower. In this project, a FedSoup adaptation for flower is trialed and compared with FedAvg. The model leveraged in this simulation is ResNet18.
+This project is a simulation of federated learning using Flower. In this project, a FedSoup adaptation for flower is trialed and compared with FedAvg. The model leveraged in this simulation is ResNet18. The adaptations are contained in the client.py file.
 
 ## Requirements
 
